@@ -116,6 +116,7 @@
   - [API Postman](https://github.com/vdruda/API-Postman)
   - [Баг репорты](https://github.com/vdruda/Bagreports)
   - [Jira](https://github.com/vdruda/Jira)
+  - [Lovetesting(Web-testing)](https://github.com/vdruda/testinglove.ru-test-)
 
   <div>
   </details>
