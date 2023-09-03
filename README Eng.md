@@ -116,6 +116,7 @@ Feedback and suggestions are always welcome!
   - [API Postman](https://github.com/vdruda/API-Postman)
   - [Bag reports](https://github.com/vdruda/Bagreports)
   - [Jira](https://github.com/vdruda/Jira)
+  - [Lovetesting(Web-testing)](https://github.com/vdruda/testinglove.ru-test-)
   
   <div>
 
